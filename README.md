@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raymond</h1>
 
-<p align="left">A passionate full-stack developer from Puerto Rico, always looking for new things to do.</p>
+<p align="left">Currently a Computer Science student in Puerto Rico passionate about full-stack developer and always looking for new things to do.</p>
 
 <h3 align="left">Connect with me:</h3>
 
