@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raymond</h1>
-<h3 align="center">A passionate frontend developer from Puerto Rico, always looking for new things to do!</h3>
 
-- 👨‍💻 All of my projects are available at [http://legoray.com](http://legoray.com)
-
-- 📫 How to reach me? **hola@legoray.com**
+<p align="left">A passionate full-stack developer from Puerto Rico, always looking for new things to do.</p>
 
 <h3 align="left">Connect with me:</h3>
+- 👨‍💻 Website: [http://legoray.com](http://legoray.com)
+- 📫 Email: **hola@legoray.com**
+- Discord: @legoncio
 <p align="left">
 </p>
 
