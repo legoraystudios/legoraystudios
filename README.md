@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 * 👨‍💻 Website: [http://legoray.com](http://legoray.com)
-* 📫 Email: **hola@legoray.com**
+*📫 Email: **hola@legoray.com**
 * Discord: @legoncio
 <p align="left">
 </p>
