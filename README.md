@@ -3,9 +3,9 @@
 <p align="left">A passionate full-stack developer from Puerto Rico, always looking for new things to do.</p>
 
 <h3 align="left">Connect with me:</h3>
-- 👨‍💻 Website: [http://legoray.com](http://legoray.com)
-- 📫 Email: **hola@legoray.com**
-- Discord: @legoncio
+* 👨‍💻 Website: [http://legoray.com](http://legoray.com)
+* 📫 Email: **hola@legoray.com**
+* Discord: @legoncio
 <p align="left">
 </p>
 
